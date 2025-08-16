@@ -31,7 +31,7 @@ npm install
 Regístrate gratis en OMDb API.
 Obtén tu API Key.
 Crea un archivo .env en la raíz del proyecto con el contenido:
-    REACT_APP_OMDB_API_KEY=TU_API_KEY
+    VITE_OMDB_API_KEY
 
 
 ### 4. Ejecutar la aplicación
